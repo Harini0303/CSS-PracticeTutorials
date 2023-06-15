@@ -1,1 +1,1 @@
-It is just for my styding purpose . I done these for my better understanding .
+I have done these for my better understanding while learning about CSS.
